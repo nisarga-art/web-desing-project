@@ -1,0 +1,14 @@
+<html>
+<head>
+<title> my notepade<title>
+
+</head>
+<boby>
+<h1> hai this my first page i wrote HTML
+<h2> hai this my second page i wrote HTML
+<h3> hai this my thrid page i wrote HTML
+<h4> hai this my fourth page i wrote HTML
+<h5> hai this my fifth page i wrote HTML
+<h6>hai this my sixth page i wrote HTML
+</body>
+</html>

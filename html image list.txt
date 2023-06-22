@@ -1,0 +1,10 @@
+<html>
+  <head>
+    <title>Image in HTML</title>
+  </head>
+  <body>
+  
+   <img src=X1MDOTYwNjI4NTcEX3IDMgRmcgNtY2FmZWUEZnIyA3A6cyx2OmksbTpzYi10b3AEZ3ByaWQDYXZCazNWeE1UR2VucE43WTlpY25EQQRuX3JzbHQDMARuX3N1Z2cDMTAEb3JpZ2luA2ltYWdlcy5zZWFyY2gueWFob28uY29tBHBvcwMwBHBxc3RyAwRwcXN0cmwDMARxc3RybAM0BHF1ZXJ5A3Jvc2UEdF9zdG1wAzE2ODQzODM5MDI.jpg"/>
+
+  </body>
+</html>
